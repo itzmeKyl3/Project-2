@@ -1,0 +1,28 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  color: white;
+  background-color: black;
+  
+}
+canvas {
+  margin:auto;
+  display: block;
+}
+
+h1{
+  text-align:center;
+  color: #880808;
+}
+h3{
+  text-align:center;
+  text-size: 1em;
+}
+h4{
+  text-align:center;
+  text-size: 1.5em;
+  }
+p{
+  text-align:center;
+  text-size:0.8em;
+}
